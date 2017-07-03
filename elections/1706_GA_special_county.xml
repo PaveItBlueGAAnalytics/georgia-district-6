@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>6/22/2017 8:40:31 AM EDT</Timestamp>
+    <ElectionName>June 20, 2017 - Special Runoff</ElectionName>
+    <ElectionDate>6/20/2017</ElectionDate>
+    <Region>GA</Region>
+    <ElectionVoterTurnout totalVoters="447826" ballotsCast="259622" voterTurnout="57.97">
+        <Counties>
+            <County name="Cobb" totalVoters="129570" ballotsCast="78493" voterTurnout="60.58" precinctsParticipating="50" precinctsReported="50" precinctsReportingPercent="100.00" />
+            <County name="DeKalb" totalVoters="101421" ballotsCast="57953" voterTurnout="57.14" precinctsParticipating="43" precinctsReported="43" precinctsReportingPercent="100.00" />
+            <County name="Fulton" totalVoters="216835" ballotsCast="123176" voterTurnout="56.81" precinctsParticipating="115" precinctsReported="115" precinctsReportingPercent="100.00" />
+        </Counties>
+    </ElectionVoterTurnout>
+    <Contest key="30600" text="U.S. Representative, District 6" isQuestion="false" countiesParticipating="3" countiesReported="3" precinctsParticipating="208" precinctsReported="208" precinctsReportingPercent="100.00">
+        <ParticipatingCounties>
+            <County name="Cobb" precinctsParticipating="50" precinctsReported="50" precinctsReportingPercent="100.00" />
+            <County name="DeKalb" precinctsParticipating="43" precinctsReported="43" precinctsReportingPercent="100.00" />
+            <County name="Fulton" precinctsParticipating="115" precinctsReported="115" precinctsReportingPercent="100.00" />
+        </ParticipatingCounties>
+        <Choice key="60" text="KAREN HANDEL (REP)" totalVotes="134595">
+            <VoteType name="Election Day" votes="67938">
+                <County name="Cobb" votes="31893" />
+                <County name="DeKalb" votes="11983" />
+                <County name="Fulton" votes="24062" />
+            </VoteType>
+            <VoteType name="Absentee by Mail" votes="10038">
+                <County name="Cobb" votes="4366" />
+                <County name="DeKalb" votes="1974" />
+                <County name="Fulton" votes="3698" />
+            </VoteType>
+            <VoteType name="Advance in Person" votes="56619">
+                <County name="Cobb" votes="9366" />
+                <County name="DeKalb" votes="10113" />
+                <County name="Fulton" votes="37140" />
+            </VoteType>
+            <VoteType name="Provisional" votes="0">
+                <County name="Cobb" votes="0" />
+                <County name="DeKalb" votes="0" />
+                <County name="Fulton" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="140" text="JON OSSOFF (DEM)" totalVotes="124893">
+            <VoteType name="Election Day" votes="48865">
+                <County name="Cobb" votes="18451" />
+                <County name="DeKalb" votes="13093" />
+                <County name="Fulton" votes="17321" />
+            </VoteType>
+            <VoteType name="Absentee by Mail" votes="17876">
+                <County name="Cobb" votes="6621" />
+                <County name="DeKalb" votes="5474" />
+                <County name="Fulton" votes="5781" />
+            </VoteType>
+            <VoteType name="Advance in Person" votes="58152">
+                <County name="Cobb" votes="7761" />
+                <County name="DeKalb" votes="15280" />
+                <County name="Fulton" votes="35111" />
+            </VoteType>
+            <VoteType name="Provisional" votes="0">
+                <County name="Cobb" votes="0" />
+                <County name="DeKalb" votes="0" />
+                <County name="Fulton" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

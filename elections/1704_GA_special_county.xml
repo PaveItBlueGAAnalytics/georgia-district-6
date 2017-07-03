@@ -1,0 +1,569 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>4/28/2017 5:41:56 AM EDT</Timestamp>
+    <ElectionName>April 18, 2017 - Special Election</ElectionName>
+    <ElectionDate>4/18/2017</ElectionDate>
+    <Region>GA</Region>
+    <ElectionVoterTurnout totalVoters="445095" ballotsCast="193981" voterTurnout="43.58">
+        <Counties>
+            <County name="Cobb" totalVoters="130304" ballotsCast="61960" voterTurnout="47.55" precinctsParticipating="51" precinctsReported="51" precinctsReportingPercent="100.00" />
+            <County name="DeKalb" totalVoters="99249" ballotsCast="44338" voterTurnout="44.67" precinctsParticipating="43" precinctsReported="43" precinctsReportingPercent="100.00" />
+            <County name="Fulton" totalVoters="215542" ballotsCast="87683" voterTurnout="40.68" precinctsParticipating="116" precinctsReported="116" precinctsReportingPercent="100.00" />
+        </Counties>
+    </ElectionVoterTurnout>
+    <Contest key="30600" text="U.S. Representative, District 6" isQuestion="false" countiesParticipating="3" countiesReported="3" precinctsParticipating="208" precinctsReported="208" precinctsReportingPercent="100.00">
+        <ParticipatingCounties>
+            <County name="Cobb" precinctsParticipating="50" precinctsReported="50" precinctsReportingPercent="100.00" />
+            <County name="DeKalb" precinctsParticipating="43" precinctsReported="43" precinctsReportingPercent="100.00" />
+            <County name="Fulton" precinctsParticipating="115" precinctsReported="115" precinctsReportingPercent="100.00" />
+        </ParticipatingCounties>
+        <Choice key="10" text="DAVID ABROMS" totalVotes="1639">
+            <VoteType name="Election Day" votes="1259">
+                <County name="Cobb" votes="477" />
+                <County name="DeKalb" votes="310" />
+                <County name="Fulton" votes="472" />
+            </VoteType>
+            <VoteType name="Absentee by Mail" votes="19">
+                <County name="Cobb" votes="10" />
+                <County name="DeKalb" votes="7" />
+                <County name="Fulton" votes="2" />
+            </VoteType>
+            <VoteType name="Advance in Person" votes="359">
+                <County name="Cobb" votes="80" />
+                <County name="DeKalb" votes="51" />
+                <County name="Fulton" votes="228" />
+            </VoteType>
+            <VoteType name="Provisional" votes="2">
+                <County name="Cobb" votes="0" />
+                <County name="DeKalb" votes="2" />
+                <County name="Fulton" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="20" text="MOHAMMAD ALI BHUIYAN" totalVotes="415">
+            <VoteType name="Election Day" votes="326">
+                <County name="Cobb" votes="110" />
+                <County name="DeKalb" votes="121" />
+                <County name="Fulton" votes="95" />
+            </VoteType>
+            <VoteType name="Absentee by Mail" votes="4">
+                <County name="Cobb" votes="2" />
+                <County name="DeKalb" votes="1" />
+                <County name="Fulton" votes="1" />
+            </VoteType>
+            <VoteType name="Advance in Person" votes="84">
+                <County name="Cobb" votes="16" />
+                <County name="DeKalb" votes="18" />
+                <County name="Fulton" votes="50" />
+            </VoteType>
+            <VoteType name="Provisional" votes="1">
+                <County name="Cobb" votes="0" />
+                <County name="DeKalb" votes="0" />
+                <County name="Fulton" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="30" text="RAGIN EDWARDS" totalVotes="504">
+            <VoteType name="Election Day" votes="285">
+                <County name="Cobb" votes="81" />
+                <County name="DeKalb" votes="73" />
+                <County name="Fulton" votes="131" />
+            </VoteType>
+            <VoteType name="Absentee by Mail" votes="20">
+                <County name="Cobb" votes="7" />
+                <County name="DeKalb" votes="4" />
+                <County name="Fulton" votes="9" />
+            </VoteType>
+            <VoteType name="Advance in Person" votes="198">
+                <County name="Cobb" votes="37" />
+                <County name="DeKalb" votes="18" />
+                <County name="Fulton" votes="143" />
+            </VoteType>
+            <VoteType name="Provisional" votes="1">
+                <County name="Cobb" votes="0" />
+                <County name="DeKalb" votes="0" />
+                <County name="Fulton" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="40" text="KEITH GRAWERT" totalVotes="415">
+            <VoteType name="Election Day" votes="307">
+                <County name="Cobb" votes="95" />
+                <County name="DeKalb" votes="93" />
+                <County name="Fulton" votes="119" />
+            </VoteType>
+            <VoteType name="Absentee by Mail" votes="15">
+                <County name="Cobb" votes="5" />
+                <County name="DeKalb" votes="7" />
+                <County name="Fulton" votes="3" />
+            </VoteType>
+            <VoteType name="Advance in Person" votes="92">
+                <County name="Cobb" votes="19" />
+                <County name="DeKalb" votes="19" />
+                <County name="Fulton" votes="54" />
+            </VoteType>
+            <VoteType name="Provisional" votes="1">
+                <County name="Cobb" votes="0" />
+                <County name="DeKalb" votes="0" />
+                <County name="Fulton" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="50" text="BOB GRAY" totalVotes="20802">
+            <VoteType name="Election Day" votes="17056">
+                <County name="Cobb" votes="6211" />
+                <County name="DeKalb" votes="2605" />
+                <County name="Fulton" votes="8240" />
+            </VoteType>
+            <VoteType name="Absentee by Mail" votes="242">
+                <County name="Cobb" votes="133" />
+                <County name="DeKalb" votes="44" />
+                <County name="Fulton" votes="65" />
+            </VoteType>
+            <VoteType name="Advance in Person" votes="3464">
+                <County name="Cobb" votes="930" />
+                <County name="DeKalb" votes="353" />
+                <County name="Fulton" votes="2181" />
+            </VoteType>
+            <VoteType name="Provisional" votes="40">
+                <County name="Cobb" votes="12" />
+                <County name="DeKalb" votes="1" />
+                <County name="Fulton" votes="27" />
+            </VoteType>
+        </Choice>
+        <Choice key="60" text="KAREN HANDEL" totalVotes="38071">
+            <VoteType name="Election Day" votes="30439">
+                <County name="Cobb" votes="9732" />
+                <County name="DeKalb" votes="6168" />
+                <County name="Fulton" votes="14539" />
+            </VoteType>
+            <VoteType name="Absentee by Mail" votes="455">
+                <County name="Cobb" votes="170" />
+                <County name="DeKalb" votes="156" />
+                <County name="Fulton" votes="129" />
+            </VoteType>
+            <VoteType name="Advance in Person" votes="7107">
+                <County name="Cobb" votes="1391" />
+                <County name="DeKalb" votes="1023" />
+                <County name="Fulton" votes="4693" />
+            </VoteType>
+            <VoteType name="Provisional" votes="70">
+                <County name="Cobb" votes="13" />
+                <County name="DeKalb" votes="12" />
+                <County name="Fulton" votes="45" />
+            </VoteType>
+        </Choice>
+        <Choice key="70" text="ALEXANDER HERNANDEZ" totalVotes="121">
+            <VoteType name="Election Day" votes="93">
+                <County name="Cobb" votes="27" />
+                <County name="DeKalb" votes="34" />
+                <County name="Fulton" votes="32" />
+            </VoteType>
+            <VoteType name="Absentee by Mail" votes="3">
+                <County name="Cobb" votes="1" />
+                <County name="DeKalb" votes="0" />
+                <County name="Fulton" votes="2" />
+            </VoteType>
+            <VoteType name="Advance in Person" votes="25">
+                <County name="Cobb" votes="8" />
+                <County name="DeKalb" votes="6" />
+                <County name="Fulton" votes="11" />
+            </VoteType>
+            <VoteType name="Provisional" votes="0">
+                <County name="Cobb" votes="0" />
+                <County name="DeKalb" votes="0" />
+                <County name="Fulton" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="80" text="JUDSON HILL" totalVotes="16870">
+            <VoteType name="Election Day" votes="13822">
+                <County name="Cobb" votes="8978" />
+                <County name="DeKalb" votes="2040" />
+                <County name="Fulton" votes="2804" />
+            </VoteType>
+            <VoteType name="Absentee by Mail" votes="352">
+                <County name="Cobb" votes="297" />
+                <County name="DeKalb" votes="32" />
+                <County name="Fulton" votes="23" />
+            </VoteType>
+            <VoteType name="Advance in Person" votes="2674">
+                <County name="Cobb" votes="1694" />
+                <County name="DeKalb" votes="240" />
+                <County name="Fulton" votes="740" />
+            </VoteType>
+            <VoteType name="Provisional" votes="22">
+                <County name="Cobb" votes="10" />
+                <County name="DeKalb" votes="4" />
+                <County name="Fulton" votes="8" />
+            </VoteType>
+        </Choice>
+        <Choice key="90" text="RICHARD KEATLEY" totalVotes="229">
+            <VoteType name="Election Day" votes="159">
+                <County name="Cobb" votes="40" />
+                <County name="DeKalb" votes="59" />
+                <County name="Fulton" votes="60" />
+            </VoteType>
+            <VoteType name="Absentee by Mail" votes="5">
+                <County name="Cobb" votes="3" />
+                <County name="DeKalb" votes="1" />
+                <County name="Fulton" votes="1" />
+            </VoteType>
+            <VoteType name="Advance in Person" votes="63">
+                <County name="Cobb" votes="14" />
+                <County name="DeKalb" votes="11" />
+                <County name="Fulton" votes="38" />
+            </VoteType>
+            <VoteType name="Provisional" votes="2">
+                <County name="Cobb" votes="0" />
+                <County name="DeKalb" votes="2" />
+                <County name="Fulton" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="100" text="AMY KREMER" totalVotes="351">
+            <VoteType name="Election Day" votes="286">
+                <County name="Cobb" votes="139" />
+                <County name="DeKalb" votes="43" />
+                <County name="Fulton" votes="104" />
+            </VoteType>
+            <VoteType name="Absentee by Mail" votes="5">
+                <County name="Cobb" votes="3" />
+                <County name="DeKalb" votes="0" />
+                <County name="Fulton" votes="2" />
+            </VoteType>
+            <VoteType name="Advance in Person" votes="58">
+                <County name="Cobb" votes="10" />
+                <County name="DeKalb" votes="5" />
+                <County name="Fulton" votes="43" />
+            </VoteType>
+            <VoteType name="Provisional" votes="2">
+                <County name="Cobb" votes="0" />
+                <County name="DeKalb" votes="0" />
+                <County name="Fulton" votes="2" />
+            </VoteType>
+        </Choice>
+        <Choice key="110" text="BRUCE LEVELL" totalVotes="455">
+            <VoteType name="Election Day" votes="325">
+                <County name="Cobb" votes="62" />
+                <County name="DeKalb" votes="98" />
+                <County name="Fulton" votes="165" />
+            </VoteType>
+            <VoteType name="Absentee by Mail" votes="14">
+                <County name="Cobb" votes="3" />
+                <County name="DeKalb" votes="4" />
+                <County name="Fulton" votes="7" />
+            </VoteType>
+            <VoteType name="Advance in Person" votes="116">
+                <County name="Cobb" votes="12" />
+                <County name="DeKalb" votes="22" />
+                <County name="Fulton" votes="82" />
+            </VoteType>
+            <VoteType name="Provisional" votes="0">
+                <County name="Cobb" votes="0" />
+                <County name="DeKalb" votes="0" />
+                <County name="Fulton" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="120" text="WILLIAM LLOP" totalVotes="326">
+            <VoteType name="Election Day" votes="269">
+                <County name="Cobb" votes="70" />
+                <County name="DeKalb" votes="84" />
+                <County name="Fulton" votes="115" />
+            </VoteType>
+            <VoteType name="Absentee by Mail" votes="3">
+                <County name="Cobb" votes="1" />
+                <County name="DeKalb" votes="2" />
+                <County name="Fulton" votes="0" />
+            </VoteType>
+            <VoteType name="Advance in Person" votes="54">
+                <County name="Cobb" votes="9" />
+                <County name="DeKalb" votes="6" />
+                <County name="Fulton" votes="39" />
+            </VoteType>
+            <VoteType name="Provisional" votes="0">
+                <County name="Cobb" votes="0" />
+                <County name="DeKalb" votes="0" />
+                <County name="Fulton" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="130" text="DAN MOODY" totalVotes="17028">
+            <VoteType name="Election Day" votes="12442">
+                <County name="Cobb" votes="3564" />
+                <County name="DeKalb" votes="3147" />
+                <County name="Fulton" votes="5731" />
+            </VoteType>
+            <VoteType name="Absentee by Mail" votes="317">
+                <County name="Cobb" votes="121" />
+                <County name="DeKalb" votes="134" />
+                <County name="Fulton" votes="62" />
+            </VoteType>
+            <VoteType name="Advance in Person" votes="4236">
+                <County name="Cobb" votes="720" />
+                <County name="DeKalb" votes="864" />
+                <County name="Fulton" votes="2652" />
+            </VoteType>
+            <VoteType name="Provisional" votes="33">
+                <County name="Cobb" votes="5" />
+                <County name="DeKalb" votes="8" />
+                <County name="Fulton" votes="20" />
+            </VoteType>
+        </Choice>
+        <Choice key="140" text="JON OSSOFF" totalVotes="92673">
+            <VoteType name="Election Day" votes="56234">
+                <County name="Cobb" votes="16848" />
+                <County name="DeKalb" votes="17300" />
+                <County name="Fulton" votes="22086" />
+            </VoteType>
+            <VoteType name="Absentee by Mail" votes="5046">
+                <County name="Cobb" votes="1719" />
+                <County name="DeKalb" votes="1850" />
+                <County name="Fulton" votes="1477" />
+            </VoteType>
+            <VoteType name="Advance in Person" votes="31153">
+                <County name="Cobb" votes="6655" />
+                <County name="DeKalb" votes="6761" />
+                <County name="Fulton" votes="17737" />
+            </VoteType>
+            <VoteType name="Provisional" votes="240">
+                <County name="Cobb" votes="66" />
+                <County name="DeKalb" votes="41" />
+                <County name="Fulton" votes="133" />
+            </VoteType>
+        </Choice>
+        <Choice key="150" text="ANDRE POLLARD" totalVotes="55">
+            <VoteType name="Election Day" votes="45">
+                <County name="Cobb" votes="18" />
+                <County name="DeKalb" votes="12" />
+                <County name="Fulton" votes="15" />
+            </VoteType>
+            <VoteType name="Absentee by Mail" votes="2">
+                <County name="Cobb" votes="0" />
+                <County name="DeKalb" votes="2" />
+                <County name="Fulton" votes="0" />
+            </VoteType>
+            <VoteType name="Advance in Person" votes="8">
+                <County name="Cobb" votes="2" />
+                <County name="DeKalb" votes="1" />
+                <County name="Fulton" votes="5" />
+            </VoteType>
+            <VoteType name="Provisional" votes="0">
+                <County name="Cobb" votes="0" />
+                <County name="DeKalb" votes="0" />
+                <County name="Fulton" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="160" text="REBECCA QUIGG" totalVotes="304">
+            <VoteType name="Election Day" votes="190">
+                <County name="Cobb" votes="56" />
+                <County name="DeKalb" votes="51" />
+                <County name="Fulton" votes="83" />
+            </VoteType>
+            <VoteType name="Absentee by Mail" votes="24">
+                <County name="Cobb" votes="8" />
+                <County name="DeKalb" votes="8" />
+                <County name="Fulton" votes="8" />
+            </VoteType>
+            <VoteType name="Advance in Person" votes="90">
+                <County name="Cobb" votes="22" />
+                <County name="DeKalb" votes="7" />
+                <County name="Fulton" votes="61" />
+            </VoteType>
+            <VoteType name="Provisional" votes="0">
+                <County name="Cobb" votes="0" />
+                <County name="DeKalb" votes="0" />
+                <County name="Fulton" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="170" text="RON SLOTIN" totalVotes="491">
+            <VoteType name="Election Day" votes="314">
+                <County name="Cobb" votes="60" />
+                <County name="DeKalb" votes="126" />
+                <County name="Fulton" votes="128" />
+            </VoteType>
+            <VoteType name="Absentee by Mail" votes="36">
+                <County name="Cobb" votes="10" />
+                <County name="DeKalb" votes="12" />
+                <County name="Fulton" votes="14" />
+            </VoteType>
+            <VoteType name="Advance in Person" votes="141">
+                <County name="Cobb" votes="23" />
+                <County name="DeKalb" votes="53" />
+                <County name="Fulton" votes="65" />
+            </VoteType>
+            <VoteType name="Provisional" votes="0">
+                <County name="Cobb" votes="0" />
+                <County name="DeKalb" votes="0" />
+                <County name="Fulton" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="180" text="KURT WILSON" totalVotes="1820">
+            <VoteType name="Election Day" votes="1451">
+                <County name="Cobb" votes="384" />
+                <County name="DeKalb" votes="112" />
+                <County name="Fulton" votes="955" />
+            </VoteType>
+            <VoteType name="Absentee by Mail" votes="21">
+                <County name="Cobb" votes="9" />
+                <County name="DeKalb" votes="5" />
+                <County name="Fulton" votes="7" />
+            </VoteType>
+            <VoteType name="Advance in Person" votes="340">
+                <County name="Cobb" votes="25" />
+                <County name="DeKalb" votes="25" />
+                <County name="Fulton" votes="290" />
+            </VoteType>
+            <VoteType name="Provisional" votes="8">
+                <County name="Cobb" votes="2" />
+                <County name="DeKalb" votes="1" />
+                <County name="Fulton" votes="5" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="43200" text="State Senator, District 32" isQuestion="false" countiesParticipating="2" countiesReported="2" precinctsParticipating="52" precinctsReported="52" precinctsReportingPercent="100.00">
+        <ParticipatingCounties>
+            <County name="Cobb" precinctsParticipating="43" precinctsReported="43" precinctsReportingPercent="100.00" />
+            <County name="Fulton" precinctsParticipating="9" precinctsReported="9" precinctsReportingPercent="100.00" />
+        </ParticipatingCounties>
+        <Choice key="10" text="HAMILTON MATTHEW BECK" totalVotes="2168">
+            <VoteType name="Election Day" votes="1953">
+                <County name="Cobb" votes="1785" />
+                <County name="Fulton" votes="168" />
+            </VoteType>
+            <VoteType name="Absentee by Mail" votes="19">
+                <County name="Cobb" votes="17" />
+                <County name="Fulton" votes="2" />
+            </VoteType>
+            <VoteType name="Advance in Person" votes="193">
+                <County name="Cobb" votes="160" />
+                <County name="Fulton" votes="33" />
+            </VoteType>
+            <VoteType name="Provisional" votes="3">
+                <County name="Cobb" votes="3" />
+                <County name="Fulton" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="20" text="MATT CAMPBELL" totalVotes="5858">
+            <VoteType name="Election Day" votes="5087">
+                <County name="Cobb" votes="4696" />
+                <County name="Fulton" votes="391" />
+            </VoteType>
+            <VoteType name="Absentee by Mail" votes="61">
+                <County name="Cobb" votes="58" />
+                <County name="Fulton" votes="3" />
+            </VoteType>
+            <VoteType name="Advance in Person" votes="702">
+                <County name="Cobb" votes="630" />
+                <County name="Fulton" votes="72" />
+            </VoteType>
+            <VoteType name="Provisional" votes="8">
+                <County name="Cobb" votes="8" />
+                <County name="Fulton" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="30" text="ROYDEN &quot;ROY&quot; DANIELS" totalVotes="8912">
+            <VoteType name="Election Day" votes="7398">
+                <County name="Cobb" votes="6659" />
+                <County name="Fulton" votes="739" />
+            </VoteType>
+            <VoteType name="Absentee by Mail" votes="185">
+                <County name="Cobb" votes="176" />
+                <County name="Fulton" votes="9" />
+            </VoteType>
+            <VoteType name="Advance in Person" votes="1322">
+                <County name="Cobb" votes="1125" />
+                <County name="Fulton" votes="197" />
+            </VoteType>
+            <VoteType name="Provisional" votes="7">
+                <County name="Cobb" votes="7" />
+                <County name="Fulton" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="40" text="EXTON HOWARD" totalVotes="4063">
+            <VoteType name="Election Day" votes="2887">
+                <County name="Cobb" votes="2598" />
+                <County name="Fulton" votes="289" />
+            </VoteType>
+            <VoteType name="Absentee by Mail" votes="239">
+                <County name="Cobb" votes="219" />
+                <County name="Fulton" votes="20" />
+            </VoteType>
+            <VoteType name="Advance in Person" votes="925">
+                <County name="Cobb" votes="768" />
+                <County name="Fulton" votes="157" />
+            </VoteType>
+            <VoteType name="Provisional" votes="12">
+                <County name="Cobb" votes="10" />
+                <County name="Fulton" votes="2" />
+            </VoteType>
+        </Choice>
+        <Choice key="50" text="KAY KIRKPATRICK" totalVotes="12369">
+            <VoteType name="Election Day" votes="10141">
+                <County name="Cobb" votes="9527" />
+                <County name="Fulton" votes="614" />
+            </VoteType>
+            <VoteType name="Absentee by Mail" votes="281">
+                <County name="Cobb" votes="273" />
+                <County name="Fulton" votes="8" />
+            </VoteType>
+            <VoteType name="Advance in Person" votes="1934">
+                <County name="Cobb" votes="1788" />
+                <County name="Fulton" votes="146" />
+            </VoteType>
+            <VoteType name="Provisional" votes="13">
+                <County name="Cobb" votes="13" />
+                <County name="Fulton" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="60" text="GUS MAKRIS" totalVotes="5969">
+            <VoteType name="Election Day" votes="4809">
+                <County name="Cobb" votes="4506" />
+                <County name="Fulton" votes="303" />
+            </VoteType>
+            <VoteType name="Absentee by Mail" votes="172">
+                <County name="Cobb" votes="169" />
+                <County name="Fulton" votes="3" />
+            </VoteType>
+            <VoteType name="Advance in Person" votes="982">
+                <County name="Cobb" votes="891" />
+                <County name="Fulton" votes="91" />
+            </VoteType>
+            <VoteType name="Provisional" votes="6">
+                <County name="Cobb" votes="6" />
+                <County name="Fulton" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="70" text="CHRISTINE TRIEBSCH" totalVotes="14199">
+            <VoteType name="Election Day" votes="9009">
+                <County name="Cobb" votes="8228" />
+                <County name="Fulton" votes="781" />
+            </VoteType>
+            <VoteType name="Absentee by Mail" votes="921">
+                <County name="Cobb" votes="852" />
+                <County name="Fulton" votes="69" />
+            </VoteType>
+            <VoteType name="Advance in Person" votes="4240">
+                <County name="Cobb" votes="3617" />
+                <County name="Fulton" votes="623" />
+            </VoteType>
+            <VoteType name="Provisional" votes="29">
+                <County name="Cobb" votes="24" />
+                <County name="Fulton" votes="5" />
+            </VoteType>
+        </Choice>
+        <Choice key="80" text="BOB WISKIND" totalVotes="5097">
+            <VoteType name="Election Day" votes="3017">
+                <County name="Cobb" votes="2519" />
+                <County name="Fulton" votes="498" />
+            </VoteType>
+            <VoteType name="Absentee by Mail" votes="447">
+                <County name="Cobb" votes="406" />
+                <County name="Fulton" votes="41" />
+            </VoteType>
+            <VoteType name="Advance in Person" votes="1623">
+                <County name="Cobb" votes="1236" />
+                <County name="Fulton" votes="387" />
+            </VoteType>
+            <VoteType name="Provisional" votes="10">
+                <County name="Cobb" votes="10" />
+                <County name="Fulton" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>
