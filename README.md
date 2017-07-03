@@ -2,24 +2,51 @@
 
 This project contains the raw election files from the Georgia 6th District
 
-Basedon the project [TimeMagazine/georgia-special-election](https://github.com/TimeMagazine/georgia-special-election)
+Based on the project [github.com/TimeMagazine/georgia-special-election](https://github.com/TimeMagazine/georgia-special-election)
 
-## Which election
+## Which file contains what
 
-* Files with 1611 in the name are from the general election
-* Files with 1704 in the name are from the runoff election
-* Files with 1706 in the name are from the special election
+* Files with `1611` in the name are from the general election
+* Files with `1704` in the name are from the runoff election
+* Files with `1706` in the name are from the special election
+* Files with `turnout` in the name contain the turnout data for the election
+* Files with  `usrep6` in the name contain the results for Congressional district 6
+* Files with `president` in the name contain the results for the Presidential election
+* Files with `precinct` in the name contain the data broken out by precinct
+* Files with `county` in the name contain the data at the county level
 
-## Precinct or county data
+### Examples
 
-* Precinct files have precinct in the name. The name may also include the county, unless it's a state wide summary.
-* County files do not include the precincts.
+#### Raw data
+
+Filename | Contains
+---------|---------
+`raw-csv/1611_GA_Fulton_general_precinct_president_results.csv` | The Nov 16 general election results per precinct for the President
+`raw-csv/1611_GA_Fulton_general_precinct_turnout.csv` | The Nov 16 general election turnout data
+`raw-csv/1611_GA_Fulton_general_precinct_usrep6_results.csv` | The Nov 16 general election results per precinct for the Congresional District 6
+`raw-csv/1704_GA_Fulton_special_precinct_turnout.csv` | The Apr 17 special election turnout data
+`raw-csv/1704_GA_Fulton_special_precinct_usrep6_results.csv` | The Apr 17 runoff election results per precinct for the Congresional District 6
+`raw-csv/1706_GA_Fulton_special_precinct_turnout.csv` | The Jun 17 special election turnout data
+`raw-csv/1706_GA_Fulton_special_precinct_usrep6_results.csv` | The Jun 17 special election results per precinct for the Congresional District 6
+
+#### Combined data
+
+Filename | Contains
+---------|---------
+`csv/1706_county_results.csv` | The Jun 17 special election combined results per county
+`csv/1706_precints_results.csv` | The Jun 17 special election combined results per county and precinct
+`csv/1706_county_summary.csv` | The Jun 17 special election sumamry of key data per county
 
 ## The folders
 
-* `elections` the raw election result XML files downloaded from [Georgia Secetary Of State Elections](http://sos.ga.gov/index.php/elections)
+* `elections` the raw election result XML files downloaded from [sos.ga.gov/index.php/elections](http://sos.ga.gov/index.php/elections)
 * `raw-csv` the raw elections results transformed from XML to CSV format limited to the 2016 Presedential election and the Georgia 6th elections in 2016 and 2017.
 * `csv` combined and analyzed results.
+
+## Column headers
+* `precinct` the precinct name
+* `DEM`: Votes for the Democratice candidate or candidate(s)
+**TODO**
 
 ## Roadmap
 
@@ -43,7 +70,6 @@ Use `npm install *module*`
 * `pascal-case`
 * `request`
 * `xml2js`
-
-## R
+### R
 * `lsr`
 
