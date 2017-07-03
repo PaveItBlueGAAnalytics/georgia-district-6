@@ -2,7 +2,7 @@
 
 This project contains the raw election files from the Georgia 6th District
 
-Basedon the project [TimeMagazine/georgia-special-election]{https://github.com/TimeMagazine/georgia-special-election}
+Basedon the project [TimeMagazine/georgia-special-election](https://github.com/TimeMagazine/georgia-special-election)
 
 ## Which election
 
@@ -17,9 +17,14 @@ Basedon the project [TimeMagazine/georgia-special-election]{https://github.com/T
 
 ## The folders
 
-* `elections` the raw election result XML files downloaded from [Georgia Secetary Of State Elections]{http://sos.ga.gov/index.php/elections}
+* `elections` the raw election result XML files downloaded from [Georgia Secetary Of State Elections](http://sos.ga.gov/index.php/elections)
 * `raw-csv` the raw elections results transformed from XML to CSV format limited to the 2016 Presedential election and the Georgia 6th elections in 2016 and 2017.
 * `csv` combined and analyzed results.
+
+## Roadmap
+
+* Add some voting demographic data into analysis
+* Start the analysis and reporting of the results
 
 ## The scripts
 
